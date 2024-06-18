@@ -35,7 +35,6 @@ public class Convidado {
         Convidado convidado = (Convidado) o;
         return getCodigoConvite() == convidado.getCodigoConvite();
     }
-
     @Override
     public int hashCode() {
         return Objects.hashCode(getCodigoConvite());

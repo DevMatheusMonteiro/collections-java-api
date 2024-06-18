@@ -8,7 +8,7 @@ public class Main {
         conjuntoConvidados.adicionarConvidado("Convidado 2", 1235);
         conjuntoConvidados.adicionarConvidado("Convidado 3", 1235);
         conjuntoConvidados.adicionarConvidado("Convidado 4", 1236);
-        conjuntoConvidados.removerConvidadoPorCodigoDoConvite(1235);
+//        conjuntoConvidados.removerConvidadoPorCodigoDoConvite(1235);
         System.out.println("Existem " + conjuntoConvidados.contarConvidados() + " convidados dentro do Set de convidados");
         conjuntoConvidados.imprimirConvidados();
     }
