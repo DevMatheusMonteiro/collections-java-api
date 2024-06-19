@@ -1,4 +1,4 @@
-package SetInterface.OperacoesBasicasComSet.AgendaDeContatos;
+package SetInterface.PesquisaEmSet.AgendaDeContatos;
 
 import java.util.Set;
 

@@ -1,6 +1,5 @@
-package SetInterface.OperacoesBasicasComSet.AgendaDeContatos;
+package SetInterface.PesquisaEmSet.AgendaDeContatos;
 
-import javax.xml.crypto.dsig.spec.XSLTTransformParameterSpec;
 import java.util.HashSet;
 import java.util.Set;
 

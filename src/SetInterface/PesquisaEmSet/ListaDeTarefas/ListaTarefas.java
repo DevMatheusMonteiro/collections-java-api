@@ -1,4 +1,4 @@
-package SetInterface.OperacoesBasicasComSet.ListaDeTarefas;
+package SetInterface.PesquisaEmSet.ListaDeTarefas;
 
 import java.util.HashSet;
 import java.util.Set;
